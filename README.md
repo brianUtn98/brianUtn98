@@ -22,3 +22,7 @@ Acá dejo mi portafolio! Pueden encontrar tanto proyectos propios como trabajos 
 * [Formulario de envio Mail]() Formulario de envio de mails con validaciones realizado en el curso JavaScript Moderno de Udemy.
 
 ![brianUtn98's github stats](https://github-readme-stats.vercel.app/api?username=brianUtn98&show_icons=true&theme=tokyonight)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brianUtn98&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+    
+[![GitHub followers](https://img.shields.io/github/followers/brianUtn98?label=Follow&style=social)](https://github.com/brianUtn98)
