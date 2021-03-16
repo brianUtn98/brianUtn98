@@ -20,7 +20,7 @@ Acá dejo mi portafolio! Pueden encontrar tanto proyectos propios como trabajos 
 * [ABM Básico](https://github.com/brianUtn98/app-abm) Aplicación Web desarrolada con HTML + JavaScript + PHP. Cuenta con una base de datos, en la que se guardan datos. La aplicación permite la Alta Baja y Modificación de datos, además de visualización y filtrado de los mismos.
 * [Carrito de compras](https://github.com/brianUtn98/progreso-javascript-moderno/tree/main/15-PROYECTO-Carrito) Carrito de compras básico realizado en el curso JavaScript Moderno de Udemy.
 * [Formulario de envio Mail](https://github.com/brianUtn98/progreso-javascript-moderno/tree/main/16-PROYECTO-EnviarEmail) Formulario de envio de mails con validaciones realizado en el curso JavaScript Moderno de Udemy.
-* [https://github.com/brianUtn98/Material-de-cursada](https://github.com/brianUtn98/Sintaxis-y-Sem-ntica-2019/tree/master/TP%202/Compilador%20-%20Monroy%20-%20Bruniard) Parciales resueltos, ejercicios en clase y tutoriales realizados para los cursos en los que ayudo en la cátedra de Paradigmas de Programación.
+* [Aportes como docente](https://github.com/brianUtn98/Material-de-cursada) Parciales resueltos, ejercicios en clase y tutoriales realizados para los cursos en los que ayudo en la cátedra de Paradigmas de Programación.
 
 ![brianUtn98's github stats](https://github-readme-stats.vercel.app/api?username=brianUtn98&show_icons=true&theme=tokyonight)  
 
