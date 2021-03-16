@@ -5,7 +5,7 @@
 -->
 Hola! Soy Brian, y estoy estudiando Ingeniería en Sistemas en la UTN FRBA. Afortunadamente me encanta estudiar, y toda oportunidad para incorporar nuevos conocimientos es buena para mi.
 - 🔭 Actualmente soy ayudante de la materia Paradigmas de Programación de la carrera Ing en Sistemas de Información.
-- 🌱 Estoy haciendo cursos de [JavaScript](https://www.udemy.com/course/javascript-moderno-guia-definitiva-construye-10-proyectos/) y [Java](https://www.udemy.com/course/universidad-java-especialista-en-java-desde-cero-a-master/) en la plataforma Udemy.
+- 🌱 Estoy haciendo cursos de [JavaScript](https://www.udemy.com/course/javascript-moderno-guia-definitiva-construye-10-proyectos/) y [Java](https://www.udemy.com/course/universidad-java-especialista-en-java-desde-cero-a-master/) en la plataforma Udemy y estudiando Ingles en un Instituto.
 - 👯 Estoy buscando trabajo como Software Developer.
 - 😄 Mi fuerte es el backend pero deseo aprender más sobre frontend.
 
