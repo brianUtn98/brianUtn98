@@ -3,7 +3,8 @@
 <!--
 **brianUtn98/brianUtn98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Hola! Soy Brian, y estoy estudiando Ingeniería en Sistemas en la UTN FRBA. Afortunadamente me encanta estudiar, y toda oportunidad para incorporar nuevos conocimientos es buena para mi.
+Hola! Soy Brian, y estoy estudiando Ingeniería en Sistemas en la UTN FRBA. Afortunadamente me encanta estudiar, y toda oportunidad para incorporar nuevos conocimientos es buena para mi. <br>
+:point_right: [Curriculum Vitae](https://drive.google.com/file/d/15XWSxkPonHIeYY5x8hg2Ml0v-Y1qm-0a/view?usp=sharing)
 - 🔭 Actualmente soy ayudante de la materia Paradigmas de Programación de la carrera Ing en Sistemas de Información.
 - 🌱 Estoy haciendo cursos de [JavaScript](https://www.udemy.com/course/javascript-moderno-guia-definitiva-construye-10-proyectos/) y [Java](https://www.udemy.com/course/universidad-java-especialista-en-java-desde-cero-a-master/) en la plataforma Udemy y estudiando Ingles en un Instituto.
 - 👯 Estoy buscando trabajo como Software Developer.
