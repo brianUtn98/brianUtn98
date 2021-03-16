@@ -2,12 +2,12 @@
 
 <!--
 **brianUtn98/brianUtn98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Hola! Soy Brian, y estoy estudiando Ingeniería en Sistemas en la UTN FRBA. Afortunadamente me encanta estudiar, y toda oportunidad para incorporar nuevos conocimientos es buena para mi.
 
 ![brianUtn98's github stats](https://github-readme-stats.vercel.app/api?username=brianUtn98&show_icons=true&theme=tokyonight)  
 
-
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
