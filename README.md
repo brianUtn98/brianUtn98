@@ -4,6 +4,7 @@
 **brianUtn98/brianUtn98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ## Este perfil esta desactualizado!
+## This profile is highly outdated :P!! work in progress (will be traslated to english)
 Hola! Soy Brian, y estoy estudiando Ingeniería en Sistemas en la UTN FRBA. Afortunadamente me encanta estudiar, y toda oportunidad para incorporar nuevos conocimientos es bienvenida. <br>
 :point_right: [Curriculum Vitae](https://drive.google.com/file/d/1NJiwX2EONCLlMM1CtnLmn9MfpXoCV63Q/view?usp=sharing)
 - 🔭 Actualmente soy ayudante de la materia Paradigmas de Programación de la carrera Ing en Sistemas de Información.
