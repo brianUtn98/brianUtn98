@@ -11,4 +11,4 @@ Blockchain Engineer - Backend Engineer
 * Microservices
 * Hexagonal Architecture
 * Grafana & Prometheus Monitoring and Alerting 🚒
-* Contact me - [Linkedin](https://www.linkedin.com/in/brian-gabriel-monroy-402571209/) - <a href="mailto:brian.gmonroy98@gmail.com">Email me</a>
+* Contact me - [Linkedin](https://www.linkedin.com/in/brian-gabriel-monroy-402571209/) - <a href="mailto:brian.gmonroy98@gmail.com">brian.gmonroy98@gmail.com</a>
